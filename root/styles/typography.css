@@ -1,0 +1,13 @@
+body {
+	font-family: Times New Roman, arial, sans-serif;
+}
+h1 {
+	font-weight: normal;
+}
+#internalnav a {
+	text-decoration: none; /*navbar within about page*/
+}
+h2 {
+	font-weight: normal;
+	color: black;
+}

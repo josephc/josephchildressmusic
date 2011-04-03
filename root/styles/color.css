@@ -1,0 +1,36 @@
+body {
+	background-color: #EFECCA;
+}
+h1 {
+	color: #002F2F
+}
+#navigation li a {
+	color: #046380; /*top navigation bar*/
+} 
+#navigation a.here {
+	color: #002F2F; /*top navigation bar*/
+}
+#internalnav a.here {
+	color: black; /*top navigation bar*/
+}
+#words a {
+	color: #046380; /*text at bottom of main page*/
+}
+#internalnav li a {
+	color: #004A4A; /*navbar within about page*/
+}
+#content img {
+	border-color: black; /*pictures and videos on hearsee*/
+}
+#backdrop img {
+	border-color: black;
+}
+#backdrop {
+	background-color: #E6E2AF;
+}
+#content2 {
+	background-color: #E6E2AF;
+}
+#merchandise img {
+	border-color: black;
+}

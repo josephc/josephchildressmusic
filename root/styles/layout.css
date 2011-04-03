@@ -1,0 +1,111 @@
+body { 
+	padding: 0;
+	margin: 0;
+	text-align: center;
+}
+#header_box {
+	margin: 0px auto;
+	width: 1290px;
+}
+#inner_container {
+	margin: 0px auto;
+	width: 1290px;
+	border-width: .1em;
+	border-style: solid;
+	position: relative;
+}
+#main_image img {
+	width: 1200px;
+}
+#words {
+	width: 1200px; /*text at bottom of main page*/
+	margin-left: auto;
+	margin-right: auto;
+}
+#navigation {
+	top: 15px; /*top navigation bar*/
+}
+#navigation li {
+	display: inline; /*top navigation bar*/
+	padding: .5em 2em;
+}
+#internalnav {
+	top: 130px; /*navbar within about page*/
+  position: absolute;
+  left: 43px;
+  width: 1200px;
+}
+#internalnav li {
+	display: inline; /*navbar within about page*/
+	margin: 140px;
+	padding: 0px;
+}
+#internalnav ul {
+	-webkit-padding-start: 0px;
+}
+#sections {
+	position: absolute; 
+	z-index: 2; /*text under internal nav bar*/
+	top: 200px;
+	left: 245px;
+}
+#content {
+	position: absolute; /*pictures and videos on hearsee*/
+	z-index:2;
+	top: 60px;
+	left: 225px;
+}
+#content img {
+  border-width: .1em; /*pictures and videos on hearsee*/
+  border-style: solid;
+  outline-width: .1em;
+  outline-style: solid;
+}
+#backdrop {
+  border-width: 1px; /*image behind photo tool*/
+  border-style: solid;
+  border-right-width: 0px;
+  border-left-width: 0px;
+  padding: 60px;
+}
+#backdrop img {
+	border-width: 2px;
+	border-style: solid;
+}
+#imagegallery li {
+  display: inline; /*photos on hearsee*/
+  top: 250px;
+  z-index: 1;
+}
+#slideshow {
+  width: 150px; /*photos on hearsee*/
+  height: 150px;
+  overflow: hidden;
+}
+#content2 {
+	padding: 1px;
+}
+#content2 img {
+	border-width: 2px;
+	border-style: solid;
+}
+#content2 ul {
+	position: absolute;
+	z-index: 2;
+	top: 930px;
+	left: 205px;
+}
+#merchandise {
+	border-width: 2px;
+	border-style: solid;
+}
+#merchandise #tower img {
+	position: absolute; /*album on buy page */
+	top: 675px;
+	left: 405px;
+} 
+#merchandise #strangers img {
+	position: absolute; /*album on buy page*/
+	top: 675px;
+	left: 720px;
+}
