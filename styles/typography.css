@@ -1,13 +1,18 @@
 body {
-	font-family: Times New Roman, arial, sans-serif;
+	font-family: "acta-display",Times New Roman, arial, sans-serif;
+	font-style: normal;
+	font-weight: 300;
 }
 h1 {
+	font-family: "acta-display",Times New Roman, arial, sans-serif;
 	font-weight: normal;
+	font-weight: 400;
 }
-#internalnav a {
+/*#internalnav a {
 	text-decoration: none; /*navbar within about page*/
-}
+}*/
 h2 {
+	font-family: "acta-display",Times New Roman, arial, sans-serif;
 	font-weight: normal;
 	color: black;
 }
