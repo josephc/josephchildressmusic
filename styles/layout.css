@@ -5,11 +5,11 @@ body {
 }
 #header_box {
 	margin: 0px auto;
-	width: 1290px;
+	width: 1090px;
 }
 #inner_container {
 	margin: 0px auto;
-	width: 1290px;
+	width: 1090px;
 	border-width: .1em;
 	border-style: solid;
 	position: relative;
@@ -18,7 +18,7 @@ body {
 	width: 1000px;
 }
 #words {
-	width: 1200px; /*text at bottom of main page*/
+	width: 1000px; /*text at bottom of main page*/
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -33,7 +33,7 @@ body {
 	top: 130px; /*navbar within about page*/
   position: absolute;
   left: 43px;
-  width: 1200px;
+  width: 1000px;
 }
 #internalnav li {
 	display: inline; /*navbar within about page*/
@@ -46,14 +46,14 @@ body {
 #sections {
 	position: absolute; 
 	z-index: 2; /*text under internal nav bar*/
-	top: 200px;
-	left: 245px;
+	top: 190px;
+	left: 140px;
 }
 #content {
 	position: absolute; /*pictures and videos on hearsee*/
 	z-index:2;
 	top: 60px;
-	left: 225px;
+	left: 115px;
 }
 #content img {
   border-width: .1em; /*pictures and videos on hearsee*/
@@ -93,7 +93,7 @@ body {
 	position: absolute;
 	z-index: 2;
 	top: 930px;
-	left: 205px;
+	left: 104px;
 }
 #merchandise {
 	border-width: 2px;
@@ -101,11 +101,11 @@ body {
 }
 #merchandise #tower img {
 	position: absolute; /*album on buy page */
-	top: 675px;
-	left: 405px;
+	top: 475px;
+	left: 305px;
 } 
 #merchandise #strangers img {
 	position: absolute; /*album on buy page*/
-	top: 675px;
-	left: 720px;
+	top: 475px;
+	left: 620px;
 }
